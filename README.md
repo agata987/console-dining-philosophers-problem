@@ -1,2 +1,2 @@
 # Dining philosophers problem
-App created with ncurses library for Linux. To compile Makefile is required.
+An app created with ncurses library and multiple threads for Linux. To compile Makefile is required.
